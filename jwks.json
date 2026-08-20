@@ -15,8 +15,14 @@
     "kid": "elara-sandbox",
     "n": "uwxNHcmxwvp1ij7fHWGIQgIETvOq2Ficm-01YKLHsUfHuOtdhFZSum1NuyNAvZHSlIR7f4MIUAiXi-xl4qEb84tsTEWD52_Fxm6p7FSo_ia7DRoiMrD_GroWj_PxpfINib4LBsgHtjoE9vBwUij5c9bsApD7BS4s9Nw_3qaxlK6UTy2ZN_CZ8l6Ckz4v2VAqggXKqHVaGZ_RpIM6OAumDQrIcPlQ8tpOGmkAeqOiXUSH8kxfJiOdBTyS-VgnQLcQk5utXl92xR23uFh9Qp1GvDhBZFP7HuZpqX9fCHxfjoUkQPTGYYUymty_iMJEKxMWuJXYlmt3e-UgZg-V0mP5YQ",
     "e": "AQAB"
+  },
+  {
+    "kty": "RSA",
+    "use": "sig",
+    "alg": "RS384",
+    "kid": "elara-sandbox-nour",
+    "n": "vsi2BIFjZsXLKBvtKNebwaW14j3rIw7AB3T1KPmuoIJ1oASrrz1-ftmhyMSqqrPgMec4k1IPcrDg3an9BODbnQ4Qv7DbHG9mKMc7qjRr3o8CpYMAP6mT1AL6NiPB34fByhac5b70_lC_qDCwF1vdThFJ072WRx3SHh6HD2UL6b_hxV3x41dCw3V5peBjlpJbQ7LwmgX_MBD-Sg3cCFNIM92mHlREg9hJw-ymnljv4ehjisQoHG4DKJLoiqU51iR66SAxsGO3CUYyIlTWKtvdH8Gw83Sgd7r9yWP2fyb5nYgv5gwFWVS-vzlH2ytotEuGm-FACSknIwTqZgaJb8aXxQ",
+    "e": "AQAB"
   }
-
-  ]
-  
+]
 }
