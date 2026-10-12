@@ -23,6 +23,14 @@
     "kid": "elara-sandbox-nour",
     "n": "vsi2BIFjZsXLKBvtKNebwaW14j3rIw7AB3T1KPmuoIJ1oASrrz1-ftmhyMSqqrPgMec4k1IPcrDg3an9BODbnQ4Qv7DbHG9mKMc7qjRr3o8CpYMAP6mT1AL6NiPB34fByhac5b70_lC_qDCwF1vdThFJ072WRx3SHh6HD2UL6b_hxV3x41dCw3V5peBjlpJbQ7LwmgX_MBD-Sg3cCFNIM92mHlREg9hJw-ymnljv4ehjisQoHG4DKJLoiqU51iR66SAxsGO3CUYyIlTWKtvdH8Gw83Sgd7r9yWP2fyb5nYgv5gwFWVS-vzlH2ytotEuGm-FACSknIwTqZgaJb8aXxQ",
     "e": "AQAB"
+    },
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS384",
+      "kid": "elara-chl-desktopahepucm-20261012",
+      "n": "uy7C73uN4DbibF35pEmYf7ItyMiUwL9sifdzbz776DsiaZT-1y_NwudrefcD10DYQcJCITTCQ31eUghe4zW8D87-qxKCwPpeK7fBbMQ4x59Z_sytxNJiHUFQ50TRBaZAZoigS1QGGu0ReRNWXaMYaoKqy7mwV-5jIv6-3In-vkuESPKdmddU0X829I0NULiiiqWY04s8ecDlVdNTP9L35IA84oA9A1x3J9cWlDr1dV6R_VwRV7CeQ-OprzGh_bFMvETVxK1QOx5cjng2oQ0cfeNk8St2kWJQAWDQIj2ve-ud8o6qr-64gPrroKHD3uaI_NiWHhYMftNe_gzqQLmhicDqGVKF-ZqrRlGeewv1jXxWYQ59Hku9emDqQ7fuKfUyJLJjRckKAsVdYA-bZ0bbjUbFIqt_y9zDj08MZxM6sxFNM9inlU0j6F-neswcu0tNctKs38BxW9NbNOO_RO54rFVZ_Y5l1TWoRyPh4Ft4o0xK3j_vEQXfiN-E4mg_z78R",
+      "e": "AQAB"
+    }
+  ]
   }
-]
-}
