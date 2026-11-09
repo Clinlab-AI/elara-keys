@@ -31,6 +31,14 @@
       "kid": "elara-chl-desktopahepucm-20261012",
       "n": "uy7C73uN4DbibF35pEmYf7ItyMiUwL9sifdzbz776DsiaZT-1y_NwudrefcD10DYQcJCITTCQ31eUghe4zW8D87-qxKCwPpeK7fBbMQ4x59Z_sytxNJiHUFQ50TRBaZAZoigS1QGGu0ReRNWXaMYaoKqy7mwV-5jIv6-3In-vkuESPKdmddU0X829I0NULiiiqWY04s8ecDlVdNTP9L35IA84oA9A1x3J9cWlDr1dV6R_VwRV7CeQ-OprzGh_bFMvETVxK1QOx5cjng2oQ0cfeNk8St2kWJQAWDQIj2ve-ud8o6qr-64gPrroKHD3uaI_NiWHhYMftNe_gzqQLmhicDqGVKF-ZqrRlGeewv1jXxWYQ59Hku9emDqQ7fuKfUyJLJjRckKAsVdYA-bZ0bbjUbFIqt_y9zDj08MZxM6sxFNM9inlU0j6F-neswcu0tNctKs38BxW9NbNOO_RO54rFVZ_Y5l1TWoRyPh4Ft4o0xK3j_vEQXfiN-E4mg_z78R",
       "e": "AQAB"
+    },
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS384",
+      "kid": "elara-chl-caichlsrvr-20261109",
+      "n": "4mHDnGMtzUavGAk2xgjzMDyKCkotRTudIdw4RvuaU4riY0IEZClvDsJCiOwysWn90VbT2uOEEAd8GLiprLu7v6VjhXrdJQ5jKlikQVY7RW-JNHJ-8pPT6egFm6B6uqtvLtxSidMg5s_eFucwBU6BUPY1LlkoJNDKsy2-9JWnHEJmXJxeM5CXpVc6xIkOhxIxuDoYsgJZiYaf1NseRR9LaiUTHEZGLdwrlyxXgcXQF09bh46MBZtslBm7Pk0NANB1FBL64ZgETqA-O06768DeZz4Xm2zW8lwY6LUWZTmPaFsROyNUibTeG8GVjsHGhnB0rM6ZefgdfsH4AseveL4mC5CsRNVQVzDsP4r6W4yODyRSGbtTWmujsqTv-z1rtq780Mn-oAShaS-t4MFQkxeE3tfJI_wFfu-TFAn2wXC5iV04bX-5NE0jtRuTTvTiE5-Glj-EncFzi79eojsVV66jGRYE8amuYgPSI2NMzT8huV1_Z_7QDV_PIZg7aARUL5HR",
+      "e": "AQAB"
     }
   ]
   }
